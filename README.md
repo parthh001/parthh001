@@ -13,11 +13,11 @@ ________________________________________________________________________________
 
 >Tools & Tech
 
-- Python, C, SQL
-- Web Development
-- DBMS, OOPS, TOC, Operating Systems
-- AI tools & intelligent systems
-- IoT, Arduino & hardware prototyping
+- Languages -  Python (Pandas, NumPy, Matplotlib), C, C++,  CSS (Bootstrap), HTML, JavaScript.
+   
+- Core concepts - JSON, Data Structures & Algorithms (C), Object Oriented Programming (C++), Database Management System, Operating Systems, Theory of Computation (PDA, Turing Machines, File handeling, I/O)
+
+- Tools and Softwares - n8n, SQL (MySQL, ), NoSQL (MongoDB), Git & Github, VS Code,  Airtable
 ____________________________________________________________________________________________________________________________________________
 
 > A Bit About Me

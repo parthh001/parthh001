@@ -13,9 +13,9 @@ ________________________________________________________________________________
 
 >Tools & Tech
 
-- Languages -  Python (Pandas, NumPy, Matplotlib), C, C++,  CSS (Bootstrap), HTML, JavaScript.
+- Languages -  Python (Pandas, NumPy, Matplotlib), C, C++,  CSS (Bootstrap), HTML, JavaScript, SQL, JSON
    
-- Core concepts - JSON, Data Structures & Algorithms (C), Object Oriented Programming (C++), Database Management System, Operating Systems, Theory of Computation (PDA, Turing Machines, File handeling, I/O)
+- Core concepts - Data Structures & Algorithms (C), Object Oriented Programming (C++), Database Management System, Operating Systems, Theory of Computation (PDA, Turing Machines, File handeling, I/O)
 
 - Tools and Softwares - n8n, SQL (MySQL, ), NoSQL (MongoDB), Git & Github, VS Code,  Airtable
 ____________________________________________________________________________________________________________________________________________

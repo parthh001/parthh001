@@ -1,6 +1,6 @@
-# Hey, I'm Parth 👋
+Hey, I'm Parth👋
 
-I am a 3 year undergrad pursuing B.tech in Information Technology @Vishwakarma Institute of Technology, Pune 
+I am a 3 year undergrad pursuing B.tech in Information Technology @Vishwakarma Institute of Technology, Pune
 
 In a phase of learning aggressively, building publicly, and experimenting with ideas that feel both useful and futuristic.
 
@@ -11,7 +11,7 @@ projects, experiments, research explorations, and everything I build while figur
 
 ____________________________________________________________________________________________________________________________________________
 
->Tools & Tech
+>😴Tools & Tech
 
 - Languages -  Python (Pandas, NumPy, Matplotlib), C, C++,  CSS (Bootstrap), HTML, JavaScript, SQL, JSON
    
@@ -20,7 +20,7 @@ ________________________________________________________________________________
 - Tools and Softwares - n8n, SQL (MySQL, ), NoSQL (MongoDB), Git & Github, VS Code,  Airtable
 ____________________________________________________________________________________________________________________________________________
 
-> A Bit About Me
+>🫠 A Bit About Me
 
 - Published 2 patents for IoT-based project innovations
 - Interested in AI systems, startups & philosophy

@@ -1,6 +1,6 @@
 Hey, I'm Parth👋
 
-I am a 3 year undergrad pursuing B.tech in Information Technology @Vishwakarma Institute of Technology, Pune
+I am a 3 year undergrad pursuing B.tech in Information Technology @ Vishwakarma Institute of Technology, Pune
 
 In a phase of learning aggressively, building publicly, and experimenting with ideas that feel both useful and futuristic.
 

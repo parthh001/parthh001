@@ -4,7 +4,7 @@ I am a 3 year undergrad pursuing B.tech in Information Technology @ Vishwakarma 
 
 In a phase of learning aggressively, building publicly, and experimenting with ideas that feel both useful and futuristic.
 
-I enjoy building things that solve real problems — from IoT systems and Arduino-based projects to AI tools, automation workflows, and intelligent applications.
+I enjoy building things that solve real problems : from IoT systems and Arduino-based projects to AI tools, automation workflows, and intelligent applications.
 
 This profile is my public learning space:
 projects, experiments, research explorations, and everything I build while figuring things out in real time.

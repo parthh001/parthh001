@@ -1,32 +1,123 @@
-Hey, I'm Parth👋
+# Hey, I'm Parth Patil 👋
 
-I am a 3 year undergrad pursuing B.tech in Information Technology @ Vishwakarma Institute of Technology, Pune
+Information Technology undergraduate at Vishwakarma Institute of Technology, Pune.
 
-In a phase of learning aggressively, building publicly, and experimenting with ideas that feel both useful and futuristic.
+I'm passionate about Artificial Intelligence, Software Engineering, Automation Systems, and building technology that solves real-world problems.
 
-I enjoy building things that solve real problems : from IoT systems and Arduino-based projects to AI tools, automation workflows, and intelligent applications.
+Currently focused on developing AI-powered applications, intelligent automation workflows, and practical software projects while strengthening my foundations in computer science and engineering.
 
-This profile is my public learning space:
-projects, experiments, research explorations, and everything I build while figuring things out in real time.
+---
 
-____________________________________________________________________________________________________________________________________________
+## Technical Skills
 
->😴Tools & Tech
+### Languages
 
-- Languages -  Python (Pandas, NumPy, Matplotlib), C, C++,  CSS (Bootstrap), HTML, JavaScript, SQL, JSON
-   
-- Core concepts - Data Structures & Algorithms (C), Object Oriented Programming (C++), Database Management System, Operating Systems, Theory of Computation (PDA, Turing Machines, File handeling, I/O)
+* Python
+* C
+* C++
+* JavaScript
+* SQL
 
-- Tools and Softwares - n8n, SQL (MySQL, ), NoSQL (MongoDB), Git & Github, VS Code,  Airtable
-____________________________________________________________________________________________________________________________________________
+### Web Development
 
->🫠 A Bit About Me
+* HTML
+* CSS
+* Bootstrap
 
-- Published 2 patents for IoT-based project innovations
-- Interested in AI systems, startups & philosophy
-- Learning in public and building consistently
-- Exploring how intelligent systems can solve real-world problems
-- Building first, overthinking later
-____________________________________________________________________________________________________________________________________________
+### Databases
 
-Currently turning curiosity into real systems one project at a time.
+* MySQL
+* MongoDB
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* n8n
+* Airtable
+
+### Core Concepts
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Database Management Systems
+* Operating Systems
+* Theory of Computation
+* JSON
+* File Handling & I/O
+
+---
+
+## Projects
+
+### Multimodal Deep Learning Framework for Cardiovascular Health Monitoring
+
+Developed a multimodal deep learning framework integrating ECG, PPG, and SCG signals for continuous cardiovascular monitoring and analysis.
+
+**Technologies:** Python, PyTorch, Transformers, ESP32, Edge AI, IoT
+
+**Highlights**
+
+* Multimodal signal fusion architecture
+* Real-time physiological signal processing
+* Patent publication filed under CGPDTM
+
+---
+
+### AI-Powered Smart Email Assistant
+
+Built an intelligent email automation system capable of:
+
+* Email summarization
+* Email categorization
+* Smart reply generation
+* Event extraction
+
+**Technologies:** Python, IMAP, NLP, Transformers, Automation Workflows
+
+---
+
+### E-Canteen Management System
+
+Developed a digital canteen management platform for simplifying food ordering and order processing.
+
+**Technologies:** HTML, CSS, JavaScript, SQL
+
+**Features**
+
+* Menu management
+* Order processing
+* Digital food ordering workflow
+
+---
+
+## Certifications
+
+* GenAI Powered Data Analytics Virtual Experience Program – Tata
+* Introduction to Artificial Intelligence – Infosys Springboard
+* Python Skill Certification – HackerRank
+* SQL (Intermediate) Skill Certification – HackerRank
+* Responsive Web Development with HTML & CSS – Infosys Springboard
+
+---
+
+## Achievements
+
+* Patent publication filed for an IoT-based healthcare monitoring framework
+* Coordinator, EPEC – Vishwakarma Institute of Technology
+* Consistently building software and AI-focused projects
+
+---
+
+## Current Focus
+
+* AI Engineering
+* Machine Learning
+* Generative AI Applications
+* Software Development
+* Open Source Contributions
+
+---
+
+> Building intelligent systems and practical software, one project at a time.

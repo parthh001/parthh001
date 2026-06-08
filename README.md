@@ -1,61 +1,77 @@
-# Hey, I'm Parth 👋
+# Hi, I'm Parth Patil 👋
 
-Information Technology undergraduate at Vishwakarma Institute of Technology, Pune.
+Computer Engineering student focused on AI, automation, backend systems, and building practical software that solves real-world problems.
 
-Interested in Artificial Intelligence, Software Engineering, Automation Systems, and building technology that solves real-world problems.
-
-Currently learning, building, and sharing projects in public while exploring how intelligent systems can create practical impact.
+Currently learning, building, and sharing projects in public while exploring how intelligent systems can create meaningful impact.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
-
+### Languages
 Python • C • C++ • JavaScript • SQL
 
-**Web**
-
+### Web
 HTML • CSS • Bootstrap
 
-**Databases**
-
+### Databases
 MySQL • MongoDB
 
-**Tools**
-
-Git • GitHub • VS Code • n8n • Airtable
+### Tools
+Git • GitHub • VS Code • MySQL Workbench • n8n
 
 ---
 
 ## 📚 Core Concepts
 
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Database Management Systems
-* Operating Systems
-* Theory of Computation
-* File Handling & I/O
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- File Handling & Data Processing
+- Software Development Fundamentals
 
 ---
 
 ## 🎯 Current Focus
 
-* AI Engineering
-* Machine Learning
-* Automation Workflows
-* Open Source Contributions
-* Building Better Projects
+- AI Engineering
+- Machine Learning Fundamentals
+- Data Structures & Algorithms
+- Backend Development
+- Building Portfolio-Ready Projects
+- Open Source Contributions
+- Technical Documentation
 
 ---
 
-## 🌱 A Little About Me
+## 🌱 About Me
 
-* Curious about AI, startups, and technology
-* Enjoy turning ideas into working systems
-* Believe consistency compounds over time
-* Always building something new
+- Computer Engineering student passionate about AI and software engineering
+- Interested in machine learning, automation, backend development, and intelligent systems
+- Focused on building practical projects that strengthen problem-solving abilities
+- Learning by building, documenting, and improving projects publicly
+- Constantly working to improve technical depth and engineering skills
+- Strong believer that consistency compounds over time
 
 ---
 
-> Building useful things and getting better every day.
+## 📈 What I'm Working On
+
+- Strengthening Python and SQL skills
+- Exploring Machine Learning concepts
+- Building AI-powered applications
+- Improving software engineering fundamentals
+- Creating projects that solve practical problems
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/parth-patil-219153334
+- GitHub: https://github.com/parthh001
+
+---
+
+> Building systems, learning continuously, and improving one project at a time.

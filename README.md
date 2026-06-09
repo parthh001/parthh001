@@ -1,3 +1,8 @@
+<img width="1584" height="396" alt="GITHUB parth" src="https://github.com/user-attachments/assets/12da4540-39b5-41a5-8d45-affddf895c1b" />
+
+
+---
+
 # Hi, I'm Parth Patil 👋
 
 Computer Engineering student focused on AI, automation, backend systems, and building practical software that solves real-world problems.

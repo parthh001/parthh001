@@ -26,7 +26,7 @@ Git • GitHub • VS Code • MySQL Workbench • n8n
 
 ---
 
-## 📚 Core Concepts
+##  Core Concepts
 
 - Data Structures & Algorithms
 - Object-Oriented Programming
@@ -38,7 +38,7 @@ Git • GitHub • VS Code • MySQL Workbench • n8n
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - AI Engineering
 - Machine Learning Fundamentals
@@ -50,7 +50,7 @@ Git • GitHub • VS Code • MySQL Workbench • n8n
 
 ---
 
-## 🌱 About Me
+##  About Me
 
 - Computer Engineering student passionate about AI and software engineering
 - Interested in machine learning, automation, backend development, and intelligent systems

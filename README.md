@@ -1,8 +1,6 @@
-<img width="736" height="414" alt=" -2" src="https://github.com/user-attachments/assets/ea46ffc3-6781-4b21-92bf-989dae96d954" />
+<img width="736" height="414" alt="Parth Patil" src="https://github.com/user-attachments/assets/ea46ffc3-6781-4b21-92bf-989dae96d954" />
 
----
-
-# Hi, I'm Parth Patil 👋
+# Parth Patil
 
 Computer Engineering student focused on AI, automation, backend systems, and building practical software that solves real-world problems.
 
@@ -10,23 +8,18 @@ Currently learning, building, and sharing projects in public while exploring how
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### Languages
-Python • C • C++ • JavaScript • SQL
-
-### Web
-HTML • CSS • Bootstrap
-
-### Databases
-MySQL • MongoDB
-
-### Tools
-Git • GitHub • VS Code • MySQL Workbench • n8n
+| Category | Technologies |
+|---|---|
+| Languages | Python, C, C++, JavaScript, SQL |
+| Web | HTML, CSS, Bootstrap |
+| Databases | MySQL, MongoDB |
+| Tools | Git, GitHub, VS Code, MySQL Workbench, n8n |
 
 ---
 
-##  Core Concepts
+## Core Concepts
 
 - Data Structures & Algorithms
 - Object-Oriented Programming
@@ -38,7 +31,7 @@ Git • GitHub • VS Code • MySQL Workbench • n8n
 
 ---
 
-##  Current Focus
+## Current Focus
 
 - AI Engineering
 - Machine Learning Fundamentals
@@ -50,7 +43,7 @@ Git • GitHub • VS Code • MySQL Workbench • n8n
 
 ---
 
-##  About Me
+## About Me
 
 - Computer Engineering student passionate about AI and software engineering
 - Interested in machine learning, automation, backend development, and intelligent systems
@@ -61,7 +54,7 @@ Git • GitHub • VS Code • MySQL Workbench • n8n
 
 ---
 
-## 📈 What I'm Working On
+## What I'm Working On
 
 - Strengthening Python and SQL skills
 - Exploring Machine Learning concepts
@@ -71,11 +64,10 @@ Git • GitHub • VS Code • MySQL Workbench • n8n
 
 ---
 
-## 🤝 Connect With Me
+## Connect
 
-- LinkedIn: www.linkedin.com/in/parth-patil-219153334
-- GitHub: https://github.com/parthh001
+[LinkedIn](https://www.linkedin.com/in/parth-patil-219153334) &nbsp;|&nbsp; [GitHub](https://github.com/parthh001)
 
 ---
 
-> Building systems, learning continuously, and improving one project at a time.
+*Building systems, learning continuously, and improving one project at a time.*

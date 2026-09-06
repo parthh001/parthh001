@@ -2,18 +2,21 @@
 
 ### Parth Patil
 
-B.Tech IT student at VIT Pune. I build things end to end — pipelines, backends, small tools — and I'd rather show what happened when I built them than list what I studied.
-
-**Building**
-
-- [PropIntel-AI](https://github.com/parthh001/PropIntel-AI) — property intelligence platform for Indian land records. Next.js 15, TypeScript, Prisma, hand-rolled JWT auth, 108 automated tests.
-- [face-blockchain-verify](https://github.com/parthh001/face-blockchain-verify) — face detection plus a genuine reverse-image search, anchored to a tamper-evident blockchain ledger. Python, dlib, SerpApi.
-- [AI-Resume-Parser](https://github.com/parthh001/AI-Resume-Parser) — ATS resume scorer that tracks analysis history in MySQL.
-- [password-manager](https://github.com/parthh001/password-manager) / [password-generator](https://github.com/parthh001/password-generator) — small CLI security tools.
+B.Tech IT student at VIT Pune (CGPA 8.3/10). Co-author on a published paper on multimodal deep learning for cardiovascular monitoring (EAI Endorsed Transactions on IoT, Vol. 11, 2025), and currently building AVIRA, a patent-pending AI assistant for elderly care. I'd rather ship working code than list buzzwords, so the pinned repos below are what I've actually built.
 
 **Stack**
 
-Python · TypeScript · SQL · Next.js · Prisma · Git
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**GitHub Stats**
+
+![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthh001&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthh001&layout=compact&hide_border=true)
 
 **Elsewhere**
 
